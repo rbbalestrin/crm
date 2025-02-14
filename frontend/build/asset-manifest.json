@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbfb430f.chunk.css",
+    "main.js": "/static/js/main.af15d6fb.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.9c3b05c6.js",
+    "static/css/2.8ce3e491.chunk.css": "/static/css/2.8ce3e491.chunk.css",
+    "static/js/2.630642b1.chunk.js": "/static/js/2.630642b1.chunk.js",
+    "static/js/3.86b3c8d0.chunk.js": "/static/js/3.86b3c8d0.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.b745b0dfdca3847e3d9cf1be0df25de5.js": "/precache-manifest.b745b0dfdca3847e3d9cf1be0df25de5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.630642b1.chunk.js.LICENSE.txt": "/static/js/2.630642b1.chunk.js.LICENSE.txt",
+    "static/js/3.86b3c8d0.chunk.js.LICENSE.txt": "/static/js/3.86b3c8d0.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/300.css": "/static/media/lato-latin-ext-300-normal.eaf671bb.woff2",
+    "static/media/400.css": "/static/media/lato-latin-ext-400-normal.c4a27cb7.woff",
+    "static/media/700.css": "/static/media/lato-latin-ext-700-normal.d81e206f.woff",
+    "static/media/900.css": "/static/media/lato-latin-ext-900-normal.4b5f220a.woff2",
+    "static/media/logo.png": "/static/media/logo.67730401.png",
+    "static/media/n8n.png": "/static/media/n8n.5c788b8d.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.9fd5812c.mp3",
+    "static/media/wa-background-dark.png": "/static/media/wa-background-dark.8244f042.png",
+    "static/media/wa-background.png": "/static/media/wa-background.2675a051.png",
+    "static/media/webhook.png": "/static/media/webhook.e5374d73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c3b05c6.js",
+    "static/css/2.8ce3e491.chunk.css",
+    "static/js/2.630642b1.chunk.js",
+    "static/css/main.bbfb430f.chunk.css",
+    "static/js/main.af15d6fb.chunk.js"
+  ]
+}

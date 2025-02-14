@@ -28,8 +28,6 @@ import { toast } from "react-toastify";
 import useDashboard from "../../hooks/useDashboard";
 import { i18n } from "../../translate/i18n";
 import CustomerTable from "../../components/CustomerTable";
-import ChartsDate from "./ChartsDate";
-import ChartsUser from "./ChartsUser";
 import clsx from "clsx";
 
 const useStyles = makeStyles((theme) => ({
@@ -444,29 +442,6 @@ const Dashboard = () => {
 							{Math.abs(statsChange.avgWaitTime)}%{" "}
 							{i18n.t("dashboard.cards.thisMonth")}
 						</Box>
-					</Paper>
-				</Grid>
-
-				{/* Charts */}
-				<Grid item xs={12} md={6}>
-					<Paper elevation={0} className={classes.paper}>
-						<ChartsDate
-							dateStartTicket={dateStartTicket}
-							dateEndTicket={dateEndTicket}
-							setDateStartTicket={setDateStartTicket}
-							setDateEndTicket={setDateEndTicket}
-						/>
-					</Paper>
-				</Grid>
-
-				<Grid item xs={12} md={6}>
-					<Paper elevation={0} className={classes.paper}>
-						<ChartsUser
-							dateStartTicket={dateStartTicket}
-							dateEndTicket={dateEndTicket}
-							setDateStartTicket={setDateStartTicket}
-							setDateEndTicket={setDateEndTicket}
-						/>
 					</Paper>
 				</Grid>
 
